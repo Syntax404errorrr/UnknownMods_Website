@@ -1,6 +1,6 @@
 # UnknownMods Website
 
-Welcome to the **UnknownMods** official website repository — a sleek, lightweight frontend built to showcase game mods, tools, and community content.
+Welcome to the **UnknownMods** official website repository — a sleek, lightweight frontend built to showcase modded application, and community content.
 
 ![Banner](assets/images/banner.png)
 
