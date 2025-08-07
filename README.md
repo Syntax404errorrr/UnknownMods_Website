@@ -23,5 +23,4 @@ The UnknownMods Website is a static HTML site designed to:
 To view the site locally:
 
 ```bash
-git clone https://github.com/Syntax404errorrr/UnknownMods_Website.git
-cd UnknownMods_Website
+https://unknownmods.vercel.app
