@@ -1,8 +1,10 @@
 # UnknownMods Website
 
-Welcome to the **UnknownMods** official website repository — a sleek, lightweight frontend built to showcase modded application, and community content.
+Welcome to the **UnknownMods** official website repository — a sleek, lightweight frontend built to showcase modded applications and community content.
 
-![Banner](assets/images/banner.png)
+<p align="center">
+  <img src="assets/images/banner.png" alt="Banner" width="300"/>
+</p>
 
 ---
 
@@ -10,7 +12,7 @@ Welcome to the **UnknownMods** official website repository — a sleek, lightwei
 
 The UnknownMods Website is a static HTML site designed to:
 
-- Present mod projects and Updates
+- Present mod projects and updates
 - Serve as a hub for downloads and announcements
 - Provide a modern, responsive UI without any backend dependencies
 
