@@ -1,6 +1,6 @@
 # UnknownMods Website
 
-Welcome to the **UnknownMods** official website repository — a sleek, lightweight frontend built to showcase modded applications and community content.
+Welcome to the **UnknownMods** official website — a sleek, lightweight frontend built to showcase modded applications and community content.
 
 <p align="center">
   <img src="assets/images/banner.png" alt="Banner" width="300"/>
