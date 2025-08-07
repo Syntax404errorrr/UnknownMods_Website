@@ -12,7 +12,7 @@ Welcome to the **UnknownMods** official website — a sleek, lightweight fronten
 
 The UnknownMods Website is a static HTML site designed to:
 
-- Present mod projects and updates
+- Present MOD projects and updates
 - Serve as a hub for downloads and announcements
 - Provide a modern, responsive UI without any backend dependencies
 
